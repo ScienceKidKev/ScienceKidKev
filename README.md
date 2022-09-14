@@ -1,5 +1,5 @@
-### Hi there 👋
-
+Kevaughn
+My name is Kevaughn and I am in the Full Stack Development pathway. I enjoy coding because I want to become a robotics engineer. I love learning new things and I also love solving problems. 
 <!--
 **ScienceKidKev/ScienceKidKev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
